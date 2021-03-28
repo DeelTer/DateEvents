@@ -9,7 +9,7 @@
   
 </div>
 
-### Configuration:
+### Конфиг:
 ```Yaml
 #Время проверки в секундах
 check-time: 25
