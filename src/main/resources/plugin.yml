@@ -1,0 +1,13 @@
+name: DateEvents
+version: ${project.version}
+main: ru.deelter.dateevents.DateEvents
+
+prefix: DateEvents
+authors: [ DeelTer ]
+description: Create custom commands and link to the date
+website: https://vk.com/DeelTer
+
+commands:
+  dateevents:
+    aliases: [dateevent, de, datee]
+    usage: /<command> <reload>
