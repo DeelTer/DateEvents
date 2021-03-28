@@ -1,11 +1,11 @@
 
-<img src="https://sun1-85.userapi.com/dTKEIVOQuzKF8XfiMt1tn5QZZIWhKKILRNkAQw/RQkUPRn_piA.jpg" alt="DonationAlerts" align="center">
+<img src="https://sun9-42.userapi.com/impg/7dOtxy90stjNjrhfLkrzwmVo7nrLEcn6p2hy-g/zz7TbiIoHcc.jpg?size=1400x400&quality=96&sign=bd1ba4a110431ed1de14b689a9ec0913&type=album" alt="DateEvents" align="center">
 
 <div align="center">
-  <h3>time-bound commands</h3>
+  <h3>commands that are executed at the right time</h3>
   
   [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
-  [![Build](https://img.shields.io/badge/builds-check%20it-green)](https://github.com/DeelTer/DonationAlerts/releases)
+  [![Build](https://img.shields.io/badge/builds-check%20it-green)](https://github.com/DeelTer/DateEvents/releases)
   
 </div>
 
