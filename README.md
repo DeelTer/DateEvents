@@ -2,34 +2,34 @@
 <img src="https://sun9-42.userapi.com/impg/7dOtxy90stjNjrhfLkrzwmVo7nrLEcn6p2hy-g/zz7TbiIoHcc.jpg?size=1400x400&quality=96&sign=bd1ba4a110431ed1de14b689a9ec0913&type=album" alt="DateEvents" align="center">
 
 <div align="center">
-  <h3>Команды выполняются в определенное время</h3>
+  <h3>Commands are executed at a specific time</h3>
   
   [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
   [![Build](https://img.shields.io/badge/builds-check%20it-green)](https://github.com/DeelTer/DateEvents/releases)
   
 </div>
 
-### Конфиг:
+### Config.yml:
 ```Yaml
-#Время проверки в секундах
+#Check time in seconds
 check-time: 25
 
 events:
-  custom-event: #Название ивента (ни на что не влияет)
-    zone: "Europe/Moscow" #Часовой пояс
-    day: #Дни, в которые ивент будет запущен (если лист пустой = каждый день)
+  custom-event: #Event name
+    zone: "Europe/Moscow" #Timezone
+    day: #Days on which event will be launched (if list is empty = every day)
       - "MONDAY"
       - "TUESDAY"
-    time: #Время запуска ивента
+    time: #Event launch time
       - "05:04"
       - "04:30"
       - "02:10"
-    commands: #Команды, которые выполнит ивент
+    commands: #Commands that the event will execute
       - "say It works!"
       - "say Hello guys"
 
-#Названия дней: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+#Days: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
 
-#Дебаг в консоль
+#Debug to console
 debug: false
 ```
