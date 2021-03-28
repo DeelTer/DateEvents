@@ -1,7 +1,13 @@
-##DateEvents
-#time-bound commands
-[![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
+<div align="left"> 
+  <div align="center">
+    <h1>DateEvents</h1>
+    <h2>time-bound commands</h2>
+  </div>
+  
+  [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
 [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/DateEvents/releases)
+</div>
+#time-bound commands
 
 
 ##Configuration
