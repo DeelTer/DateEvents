@@ -6,7 +6,6 @@
 [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/DateEvents/releases)
 </div>
 
-<div align="left">
 ```
 #In seconds
 check-time: 25
@@ -46,4 +45,3 @@ events:
 
 debug: false
 ```
-</div>
