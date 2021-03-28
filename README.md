@@ -14,21 +14,14 @@
     </div>
 </div>
 
+###DateEvents
+##time-bound commands
+  [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
+  [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/DateEvents/releases)
+
+
 ##Configuration
 ```
-#########################################
-#                                       #
-#               DateEvents              #
-#                                       #
-#########################################
-
-#Contact with me:
-#
-#VK: vk.com/deelter
-#DISCORD: DeelTer#4782
-#TWITTER: twitter.com/roma200315
-#YOUTUBE: www.youtube.com/channel/UCRACU2JfOfClrlEHImv5pYw
-
 #In seconds
 check-time: 25
 
