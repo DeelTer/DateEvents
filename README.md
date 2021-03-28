@@ -1,6 +1,5 @@
 <div align="cetner"> 
-  <h1>DateEvents</h1>
-  <h3>time-bound commands</h3>
+  <h1>DateEvents <h3>time-bound commands</h3></h1>
   
   [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
 [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/DateEvents/releases)
