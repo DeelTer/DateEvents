@@ -1,16 +1,12 @@
-<div align="left"> 
-  <div align="center">
-    <h1>DateEvents</h1>
-    <h2>time-bound commands</h2>
-  </div>
+<div align="cetner"> 
+  <h1>DateEvents</h1>
+  <h3>time-bound commands</h3>
   
   [![Vk](https://img.shields.io/badge/vk-DeelTer-9cf)](https://vk.com/DeelTer/)
 [![Build](https://img.shields.io/badge/builds-download-green)](https://github.com/DeelTer/DateEvents/releases)
 </div>
-#time-bound commands
 
-
-##Configuration
+<div align="left">
 ```
 #In seconds
 check-time: 25
@@ -50,3 +46,4 @@ events:
 
 debug: false
 ```
+</div>
