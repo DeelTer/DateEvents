@@ -17,9 +17,7 @@ check-time: 25
 events:
   custom-event: #Название ивента (ни на что не влияет)
     zone: "Europe/Moscow" #Часовой пояс
-    #Дни, в которые ивент будет запущен (если лист пустой = каждый день)
-    #Названия дней: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
-    day:
+    day: #Дни, в которые ивент будет запущен (если лист пустой = каждый день)
       - "MONDAY"
       - "TUESDAY"
     time: #Время запуска ивента
@@ -29,6 +27,8 @@ events:
     commands: #Команды, которые выполнит ивент
       - "say It works!"
       - "say Hello guys"
+
+#Названия дней: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
 
 #Дебаг в консоль
 debug: false
